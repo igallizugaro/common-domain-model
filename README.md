@@ -21,19 +21,13 @@ Please refer to the [Governance](docs/governance.md) page.
 
 ### Roles
 
-The CSL specifies [three different contribution roles](docs/governance.md#1roles) for each specific [Working Group](docs/working-groups.md): Mantainers, Editors and Participants. 
+The CSL specifies [three different contribution roles](docs/governance.md#1roles) for each specific [Working Group](docs/working-groups.md): [Mantainers](docs/maintainers.md), Editors and Participants. 
 
 
 ### Working Groups
 
 Changes to the CDM may be proposed by CDM Working Groups, individual corporate contributors, or individual contributors.
 The active Working Groups are covered by our [Working Groups](docs/working-groups.md) page.
-
-
-![](.github/finos-cdm-governance-structure.png)
-
-
-![](.github/Group-Roles-Scope.png)
 
 
 ## CDM Design Principles and Development Guidelines
