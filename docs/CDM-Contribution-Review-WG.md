@@ -20,7 +20,6 @@ The CDM Contribution Review Working Group (CRWG) plays a crucial role in the CDM
 
 ## 2024 Roadmap
 
-![CRWG Roadmap](/img/crwg-roadmap.png)
 
 ## Subscribe
 
