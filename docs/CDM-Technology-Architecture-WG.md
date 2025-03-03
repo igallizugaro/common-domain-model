@@ -18,7 +18,7 @@ The CDM Technology Architecture Working Group focuses on aligning the architectu
 
 ## 2024 Roadmap
 
-![TAWG Roadmap](/img/tawg-roadmap.png)
+
 
 ## Subscribe
 
