@@ -20,7 +20,7 @@ This working group serves as the driving force behind the strategic direction an
 
 ## 2024 Roadmap
 
-![Steering WG Roadmap](/img/steering-roadmap.png)
+
 
 ## Subscribe
 
