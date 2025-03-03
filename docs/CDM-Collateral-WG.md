@@ -16,7 +16,7 @@ The Collateral Working Group plays a pivotal role in the CDM ecosystem by provid
 
 ## 2024 Roadmap
 
-![Collateral WG Roadmap](/img/crwg-roadmap.png)
+
 
 ## Subscribe
 
